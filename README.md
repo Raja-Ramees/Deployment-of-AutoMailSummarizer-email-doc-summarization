@@ -1,3 +1,4 @@
+https://github.com/Raja-Ramees/Deployment-of-AutoMailSummarizer-email-doc-summarization/blob/c49fa58f029e69af70a5080df7c9cdfce3d36d19/Screenshot%202026-02-12%20192617.png
 n8n Docker Setup
 mkdir -p ~/n8n-data
 sudo chown -R 1000:1000 ~/n8n-data
