@@ -1,5 +1,3 @@
-![Screenshot](https://raw.githubusercontent.com/Raja-Ramees/Deployment-of-AutoMailSummarizer-email-doc-summarization/main/Screenshot-2026-02-12-192617.png)
-
 ## n8n Docker Setup
 
 ```bash
@@ -30,6 +28,8 @@ n8nio/n8n → Docker image name
 Result: You can now access the n8n UI at:
 
 http://localhost:5678
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/31db40ce-3f06-4df6-a12d-00e027a8610c" />
+
 
 2️⃣ Node.js Project Setup
 sudo apt install nodejs npm -y
