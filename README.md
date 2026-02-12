@@ -1,6 +1,4 @@
 ## n8n Docker Setup
-
-```bash
 mkdir -p ~/n8n-data
 sudo chown -R 1000:1000 ~/n8n-data
 sudo docker run -d \
