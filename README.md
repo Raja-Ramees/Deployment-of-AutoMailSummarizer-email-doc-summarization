@@ -1,4 +1,4 @@
-![Screenshot](images/Screenshot-2026-02-12-192617.png)
+https://raw.githubusercontent.com/Raja-Ramees/Deployment-of-AutoMailSummarizer-email-doc-summarization/main/Screenshot-2026-02-12-192617.png
 
 
 n8n Docker Setup
