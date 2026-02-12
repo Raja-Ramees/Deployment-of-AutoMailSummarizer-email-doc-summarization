@@ -1,18 +1,17 @@
 ![Screenshot](https://raw.githubusercontent.com/Raja-Ramees/Deployment-of-AutoMailSummarizer-email-doc-summarization/main/Screenshot-2026-02-12-192617.png)
 
-n8n Docker Setup
+## n8n Docker Setup
+
+```bash
 mkdir -p ~/n8n-data
 sudo chown -R 1000:1000 ~/n8n-data
-mkdir -p ~/n8n-data → Creates a folder n8n-data in your home directory to store n8n data (workflows, credentials, etc.)
-
-sudo chown -R 1000:1000 ~/n8n-data → Changes the folder owner to user ID 1000, so the n8n container can read/write in it
-
 sudo docker run -d \
 --name n8n \
 -p 5678:5678 \
 -v ~/n8n-data:/home/node/.n8n \
 -e N8N_SECURE_COOKIE=false \
 n8nio/n8n
+
 
 Explanation:
 
