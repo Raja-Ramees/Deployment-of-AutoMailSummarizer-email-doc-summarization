@@ -1,4 +1,5 @@
-![Screenshot](Screenshot-2026-02-12-192617.png)
+![Screenshot](images/Screenshot-2026-02-12-192617.png)
+
 
 n8n Docker Setup
 mkdir -p ~/n8n-data
