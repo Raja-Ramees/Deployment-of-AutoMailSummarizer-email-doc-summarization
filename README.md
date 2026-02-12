@@ -1,5 +1,4 @@
-![Uploading image.png…]()
-
+Screenshot 2026-02-12 192617.png
 n8n Docker Setup
 mkdir -p ~/n8n-data
 sudo chown -R 1000:1000 ~/n8n-data
