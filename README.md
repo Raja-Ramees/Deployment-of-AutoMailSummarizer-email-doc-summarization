@@ -1,3 +1,5 @@
+<img width="1531" height="567" alt="image" src="https://github.com/user-attachments/assets/ad61052c-3a2f-4ec0-9f68-d00cf0600c41" />
+
 ## n8n Docker Setup
 mkdir -p ~/n8n-data
 sudo chown -R 1000:1000 ~/n8n-data
@@ -30,6 +32,8 @@ http://localhost:5678
 
 
 2️⃣ Node.js Project Setup
+<img width="844" height="324" alt="image" src="https://github.com/user-attachments/assets/797354b6-3a9f-432b-b159-f6266867c86c" />
+
 sudo apt install nodejs npm -y
 
 
@@ -41,6 +45,7 @@ npm init -y
 
 
 Creates a project folder ai-demo
+<img width="1784" height="738" alt="image" src="https://github.com/user-attachments/assets/9e642ac7-00d2-4575-8402-dc2e8d2b7c7c" />
 
 Run a new Ollama container
 docker run -d \
@@ -185,6 +190,8 @@ jared@solution5410:~$
 
 #so my http url will be this http://172.17.0.1:3001/create-agent
 n8n container → Docker gateway → host → server.js
+<img width="932" height="651" alt="image" src="https://github.com/user-attachments/assets/ed8d2355-35c4-49b0-b02d-b55d7d0438bd" />
+
 
 HTTP AGENT PARAMETERS use below
 Method
